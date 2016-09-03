@@ -1,0 +1,1 @@
+firstapp = angular.module("FirstApp", ["ngResource"])
